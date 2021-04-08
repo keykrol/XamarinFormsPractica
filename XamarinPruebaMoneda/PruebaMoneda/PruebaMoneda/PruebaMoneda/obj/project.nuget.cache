@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "JjeaBiLWPCkRbIu4CzCkPvgYjADDY0LakLJU1Bv9gHRsmmPG0Ee6pTOmzuowJp+/wa3JcItLOjBRFA/h52sWOw==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\XamarinPruebaMoneda\\PruebaMoneda\\PruebaMoneda\\PruebaMoneda\\PruebaMoneda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

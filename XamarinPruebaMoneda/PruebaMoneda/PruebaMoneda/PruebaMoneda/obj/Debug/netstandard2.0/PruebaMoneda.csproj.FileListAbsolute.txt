@@ -1,0 +1,15 @@
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\PruebaMoneda.csprojAssemblyReference.cache
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\PruebaMoneda.AssemblyInfoInputs.cache
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\PruebaMoneda.AssemblyInfo.cs
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\PruebaMoneda.csproj.CoreCompileInputs.cache
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\PruebaMoneda.dll
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\ref\PruebaMoneda.dll
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\PruebaMoneda.pdb
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\bin\Debug\netstandard2.0\PruebaMoneda.deps.json
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\bin\Debug\netstandard2.0\PruebaMoneda.dll
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\bin\Debug\netstandard2.0\ref\PruebaMoneda.dll
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\bin\Debug\netstandard2.0\PruebaMoneda.pdb
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GIT\XamarinPruebaMoneda\PruebaMoneda\PruebaMoneda\PruebaMoneda\obj\Debug\netstandard2.0\PruebaMoneda.xaml.g.cs

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFormPractica.Page1">
+    <StackLayout BackgroundColor="Blue" VerticalOptions="Center" 
+                 HorizontalOptions="Center"
+                 Spacing="15"
+                 Padding="0,40,0,0"
+                 Orientation="Horizontal"> <!-- primera etiqueta para agrupar objetos-->
+    
+    <StackLayout>
+            <Label Text="Label " Background="Green" WidthRequest="40"></Label>
+            <Label Text="Label 1" Background="Red"></Label>
+    </StackLayout>
+        
+    <Label Text="Label 2"></Label>
+    <Label Text="Label 3"></Label>
+    </StackLayout>
+</ContentPage>

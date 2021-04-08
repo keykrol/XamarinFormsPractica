@@ -1,0 +1,16 @@
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\bin\Debug\netstandard2.0\XamarinFormPractica.deps.json
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\bin\Debug\netstandard2.0\XamarinFormPractica.dll
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\bin\Debug\netstandard2.0\ref\XamarinFormPractica.dll
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\bin\Debug\netstandard2.0\XamarinFormPractica.pdb
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\XamarinFormPractica.csprojAssemblyReference.cache
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\Primera_practica.xaml.g.cs
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\XamarinFormPractica.AssemblyInfoInputs.cache
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\XamarinFormPractica.AssemblyInfo.cs
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\XamarinFormPractica.csproj.CoreCompileInputs.cache
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\XamarinFormPractica.dll
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\ref\XamarinFormPractica.dll
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\XamarinFormPractica.pdb
+D:\GIT\XamarinFormsPractica\XamarinFormPractica\XamarinFormPractica\XamarinFormPractica\obj\Debug\netstandard2.0\Page1.xaml.g.cs
